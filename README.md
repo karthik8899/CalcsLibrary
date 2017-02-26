@@ -1,6 +1,6 @@
 # CalcsLibrary
 
-This application cacluculates a given arithmatic expression and compute the results.
+This application calculates a given arithmatic expression and compute the results.
 Curretnly, only four operators are used with its order of precedence wihout any eval/ third party libraries.
 
 Sample Input:
